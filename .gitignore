@@ -131,5 +131,10 @@ dmypy.json
 
 # data 
 /archive
+/dataset
+/data
 
 *.zip
+*.png 
+*.jpg
+*.jpeg 
